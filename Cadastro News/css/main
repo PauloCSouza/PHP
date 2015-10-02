@@ -1,0 +1,49 @@
+body{
+    background-image: url(../img/bg.jpg);
+}
+
+#cadastro fieldset{
+    width: 800px;
+    padding: 10px;
+    border-radius:20px;
+    position:absolute;
+    top:45%;
+    left:30%;
+    background-color: #01d8f7;
+}
+
+#cadastro fieldset legend{
+    border:2px solid #999;
+    padding:5px;
+    border-radius:20px;
+    background-color: #edf8fe;
+    //text-shadow: 1px 1px 1px black;
+}
+
+#cadastro fieldset label{
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#view fieldset{
+    width: 800px;
+    padding: 10px;
+    border:2px solid #999;
+    padding:5px;
+    border-radius:20px;
+    background-color: #01d8f7;
+    position:absolute;
+    top:45%;
+    left:30%;
+}
+
+#view fieldset legend{
+    border:2px solid #999;
+    padding:5px;
+    border-radius:20px;
+    background-color: #edf8fe;
+}
+
+
